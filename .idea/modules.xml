@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HomeTask1/HomeTask1.iml" filepath="$PROJECT_DIR$/HomeTask1/HomeTask1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeTask2/HomeTask2.iml" filepath="$PROJECT_DIR$/HomeTask2/HomeTask2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPro.iml" filepath="$PROJECT_DIR$/JavaPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeTask1/Task2/Task2.iml" filepath="$PROJECT_DIR$/HomeTask1/Task2/Task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeTask1/Task3/Task3.iml" filepath="$PROJECT_DIR$/HomeTask1/Task3/Task3.iml" />
+    </modules>
+  </component>
+</project>
