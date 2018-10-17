@@ -2,46 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df4631bc-2d6c-42dd-a293-6262948ad490" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/HomeTask1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task1/src/com/gmail/arsenycholexandra/arsenycholexandra/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task1/src/com/gmail/arsenycholexandra/arsenycholexandra/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task1/src/com/gmail/arsenycholexandra/arsenycholexandra/SomeMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task2/Task2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Save.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/SaverAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Savers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/String" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task3/Task3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/JSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/JSON.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Save.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask2/HomeTask2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeTask2/Task1/src/com/gmail/arsenycholexandra/arsenycholexandra/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/initial" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeTask1/com/gmail/arsenycholexandra/arsenycholexandra/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeTask1/com/gmail/arsenycholexandra/arsenycholexandra/MyAnnotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HomeTask1/com/gmail/arsenycholexandra/arsenycholexandra/SomeMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task2/com/gmail/arsenycholexandra/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task2/com/gmail/arsenycholexandra/Save.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task2/com/gmail/arsenycholexandra/SaverAnnotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task2/com/gmail/arsenycholexandra/Savers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task2/com/gmail/arsenycholexandra/String" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task3/com/gmail/arsenycholexandra/JSON.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task3/com/gmail/arsenycholexandra/JSON.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task3/com/gmail/arsenycholexandra/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task3/com/gmail/arsenycholexandra/Save.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task3/com/gmail/arsenycholexandra/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/JSON.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Serialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/JSON.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Save.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Save.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task3/com/gmail/arsenycholexandra/JSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task3/com/gmail/arsenycholexandra/JSON.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task3/com/gmail/arsenycholexandra/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task3/com/gmail/arsenycholexandra/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task3/com/gmail/arsenycholexandra/Save.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task3/com/gmail/arsenycholexandra/Save.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task3/com/gmail/arsenycholexandra/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task3/com/gmail/arsenycholexandra/TestClass.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,11 +25,13 @@
     <session id="693017899">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -66,28 +39,28 @@
           <entry key="String" value="3" />
           <entry key="class" value="1" />
           <entry key="iml" value="4" />
-          <entry key="java" value="29" />
-          <entry key="txt" value="1" />
+          <entry key="java" value="31" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="29" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="JAVA" value="31" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="1" />
-          <entry key="java" value="1801" />
+          <entry key="dummy" value="14" />
+          <entry key="java" value="2393" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1801" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="2393" />
+          <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -98,23 +71,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,15 +84,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/JSON.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/SaverAnnotation.java">
+        <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Save.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state relative-caret-position="75">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Save.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="105">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -151,22 +110,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="120">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#646#647#0" expanded="true" />
-                <element signature="e#673#674#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#764#765#0" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#828#829#0" expanded="true" />
-                <element signature="e#874#875#0" expanded="true" />
-                <element signature="e#912#913#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -178,10 +125,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/JSON.java">
+        <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Serialization.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+            <state relative-caret-position="577">
+              <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -190,10 +137,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Serialization.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Savers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            <state relative-caret-position="330">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -201,11 +153,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeTask1/Task1/src/com/gmail/arsenycholexandra/arsenycholexandra/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="435">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -231,15 +183,16 @@
         <option value="$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Save.java" />
         <option value="$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Saver.java" />
         <option value="$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Savers123.java" />
-        <option value="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Save.java" />
-        <option value="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Main.java" />
-        <option value="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/JSON.java" />
-        <option value="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/TestClass.java" />
         <option value="$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/SaverAnnotation.java" />
         <option value="$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/TextContainer.java" />
         <option value="$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Savers.java" />
         <option value="$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Main.java" />
         <option value="$PROJECT_DIR$/HomeTask1/Task1/src/com/gmail/arsenycholexandra/arsenycholexandra/Main.java" />
+        <option value="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Save.java" />
+        <option value="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/JSON.java" />
+        <option value="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/TestClass.java" />
+        <option value="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Serialization.java" />
+        <option value="$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Main.java" />
       </list>
     </option>
   </component>
@@ -250,9 +203,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="872" />
+    <option name="x" value="643" />
     <option name="y" value="23" />
-    <option name="width" value="976" />
+    <option name="width" value="1277" />
     <option name="height" value="1094" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -262,7 +215,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -346,6 +298,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -355,7 +308,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539686526725" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539799583829" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -402,7 +355,7 @@
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gmail.arsenycholexandra.Main" />
-      <module name="Task2" />
+      <module name="Task3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.gmail.arsenycholexandra.*" />
@@ -416,6 +369,32 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gmail.arsenycholexandra.Main" />
       <module name="HomeTask1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gmail.arsenycholexandra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gmail.arsenycholexandra.Main" />
+      <module name="Task2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gmail.arsenycholexandra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gmail.arsenycholexandra.Main" />
+      <module name="Task3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.gmail.arsenycholexandra.*" />
@@ -465,10 +444,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Cucumber java.All Features in: Task2" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -484,18 +461,24 @@
       <updated>1539343111346</updated>
       <workItem from="1539343145491" duration="8329000" />
       <workItem from="1539354155865" duration="1846000" />
-      <workItem from="1539366725369" duration="13830000" />
+      <workItem from="1539366725369" duration="18010000" />
+      <workItem from="1539782988520" duration="1190000" />
+      <workItem from="1539784772505" duration="1272000" />
+      <workItem from="1539790242701" duration="1777000" />
+      <workItem from="1539792067119" duration="1347000" />
+      <workItem from="1539793879048" duration="618000" />
+      <workItem from="1539797407921" duration="1792000" />
+      <workItem from="1539799234807" duration="297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24005000" />
+    <option name="totallyTimeSpent" value="36478000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="872" y="23" width="976" height="1094" extended-state="0" />
-    <editor active="true" />
+    <frame x="643" y="23" width="1277" height="1094" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34154177" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2866397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -504,7 +487,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29141715" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25748503" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -577,20 +560,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Save.java">
+    <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/SaverAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/TextContainer.java" />
+    <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Object.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Save.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/JSON.java">
+    <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Save.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -599,80 +600,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/JSON.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/SaverAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Save.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/TextContainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/String">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Serialization.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/HomeTask1/Task2/src/com/gmail/arsenycholexandra/Savers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        <state relative-caret-position="330">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -681,8 +626,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HomeTask1/Task1/src/com/gmail/arsenycholexandra/arsenycholexandra/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="435">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Serialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -6,19 +6,21 @@ package com.gmail.arsenycholexandra;
 */
 
 import java.io.File;
-import java.io.IOException;
-import java.lang.reflect.Field;
+import java.io.FileNotFoundException;
 
 public class Main {
-    public static void main(String[] args) {
-        TestClass human1 = new TestClass("Vasya", 26, "USA");
-        File file = new File("/Users/alexandraarsenych/IdeaProjects/JavaPro/HomeTask1/Task3/src/com/gmail/arsenycholexandra/JSON.txt");
+    public static void main(String[] args) throws FileNotFoundException {
+        TestClass human1 = new TestClass("Vasya", "USA");
+        File file = new File("/Users/alexandraarsenych/IdeaProjects/JavaPro/HomeTask1/Task3/src/com/gmail/arsenycholexandra/Serialization.txt");
 
-        JSON.saveToJSONFile(human1, file);
-
-
-
+        try {
+            Serialization.saveToJSON(human1, file);
+        } catch (IllegalAccessException e) {
+            e.printStackTrace();
         }
+
+        System.out.print(Serialization.loadFromJSONFile(file));
+    }
 
 }
 
